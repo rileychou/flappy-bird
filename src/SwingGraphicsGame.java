@@ -1,4 +1,5 @@
 import javax.swing.*;
+//imports swing for the graphics
 
 public class SwingGraphicsGame {
 
